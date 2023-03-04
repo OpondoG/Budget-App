@@ -1,6 +1,5 @@
 <h4 class="mt-5 text-center text-light p-2 mb-5", style="background-color: #5fb523;"><%= @group.name %>: $<%= @group.total_transactions %></h4>
 <section class="mb-5">
-<%= image_tag("cate.png", alt: "Logo", size: '200x250', class: "photo1") %>
 <% @group.entities.each do |entity| %>
   <div class="container mb-5", style="width: 50%;">
     <div class="card p-3 my-3 rounded-0 w-50%">
