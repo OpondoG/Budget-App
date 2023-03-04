@@ -82,8 +82,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Authentication, User can manage his recipies and foods]**
-- **[Guest User can navigate the App and read all ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
