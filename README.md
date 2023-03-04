@@ -90,6 +90,10 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://mybudget-bal6.onrender.com/)
+
 <!-- ER DIAGRAM-->
 ## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
 ![er-diagram](https://github.com/microverseinc/curriculum-rails/blob/main/capstone/images/erd_diagram.png)
