@@ -94,6 +94,8 @@ After you're finished please remove all the comments and instructions!
 
 - [Live Demo Link](https://mybudget-bal6.onrender.com/)
 
+- [Presentation Link](https://drive.google.com/file/d/1I8grpOdXDCrVos8ACIEAZiah1eELvhpq/view?usp=share_link)
+
 <!-- ER DIAGRAM-->
 ## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
 ![er-diagram](https://github.com/microverseinc/curriculum-rails/blob/main/capstone/images/erd_diagram.png)
