@@ -64,4 +64,8 @@ group :development do
   # gem "spring"
 end
 gem 'devise'
+# gem 'letter_opener', group: :development
+gem 'bootstrap', '~> 5.2'
+# Add cancancan
+gem 'cancancan'
 
